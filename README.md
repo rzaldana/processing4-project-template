@@ -1,4 +1,4 @@
-# java-project-template
+# processing4-project-template
 
 ## Useful resources on compiling Java
 - Directory structure: https://cs.lmu.edu/~ray/notes/largejavaapps/
